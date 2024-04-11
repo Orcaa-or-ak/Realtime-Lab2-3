@@ -1,1 +1,1 @@
-Team name: FCFS
+Group: FCFS
